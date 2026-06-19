@@ -26,7 +26,6 @@ foreach (_PATH_DATA_IMAGE[$path_src] as $k => $fe) {
     $h = $h * $ratio;
 
     image_resize($path_src_fe, $path_dest_fe, $w, $h);
-    unlink($path_src_fe);
   }
 }
 

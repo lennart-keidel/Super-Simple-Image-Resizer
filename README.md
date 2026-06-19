@@ -15,9 +15,8 @@ extension=gd
 1. paste your images into the `source` folder
 2. call the index.php file
 3. alle resized images appear in the `destination` folder
-4. files that are done get removed from the source folder
-5. if it stopps without finishing all files, cause the maximum execution time is reached, it says at what file it stopped
-6. you can do it repeatedly
+4. if it stopps without finishing all files, cause the maximum execution time is reached, it says at what file it stopped
+5. you can do it repeatedly
 
 ## Settings
 
