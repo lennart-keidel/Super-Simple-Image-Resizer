@@ -1,7 +1,7 @@
 ##### CUSTOM
 log
-source
-destination
+source/*
+destination/*
 
 ##### Windows
 # Windows thumbnail cache files
